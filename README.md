@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me ... 
-- 😄 Pronouns: ... li xiqing 李 is a surname
+- 😄 Pronouns: ... 
 - ⚡ Fun fact: ... the chinese black tea is awesome
 
 <!---
